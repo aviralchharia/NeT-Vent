@@ -48,7 +48,7 @@ The most important aspect of designing an engineering solution is to identify lo
 
 <div class="container">
 
- <embed src="NeT-Vent_IEEE_Paper.pdf" type="application/pdf" width="100%" height="600px" />
+ <iframe src="NeT-Vent_IEEE_Paper.pdf" type="application/pdf" width="100%" height="600px" />
 </div>
 
 
