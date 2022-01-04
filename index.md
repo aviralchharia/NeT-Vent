@@ -48,20 +48,20 @@ Another challenging part was to find the exact market price of various component
 
 The most important aspect of designing an engineering solution is to identify loopholes in current designs and then improve upon them. Design iterations to address the identified problem are an integral part of the process. Through Net-Vent, we targeted the low-resourced regions and poor backgrounds where high-end ventilators are not available easily. While designing it, we consider developing an easy User Interface of the machine so that everyone can understand it easily. When like-minded people come together to solve a problem, innovation happens, team effort plays a vital role in the success of any project. Operating on such a tight deadline and at a distance from each other was challenging. However, it is not essential to know everything yourself as long as you have a team of motivated people from various backgrounds possessing different skill sets with a common goal and a unique vision. Now that our team has successfully tested the project through various computer simulations, we will be testing our design on a breathing simulator. We plan to send the designs to the Indian Council of Medical Research to be used in under-resourced locations across the country.
 
-<style>
+<!-- <style>
  .container{padding: 30px;}
 </style>
 
 <div class="container">
 
  <iframe src="NeT-Vent_IEEE_Paper.pdf" type="application/pdf" width="100%" height="600px"></iframe>
-</div>
+</div> -->
 
 
-<object data="NeT-Vent_IEEE_Paper.pdf" type="application/pdf" width="100%" height="100%">
+<object data="NeT-Vent_IEEE_Paper.pdf" type="application/pdf" width="100%" height="600px">
   <p>Your web browser doesn't have a PDF plugin.
   Instead you can <a href="NeT-Vent_IEEE_Paper.pdf">click here to
-  download the PDF file.</a></p>
+  download the NeT-Vent IEEE Paper.</a></p>
 </object>
 
 
