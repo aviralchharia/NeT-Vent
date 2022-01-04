@@ -49,11 +49,34 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
+### Highlights
+
+```markdown
+1. Project NeT-Vent- An Open-Source, Low-Cost, Easy to use and Manufacture Ventilator Design initiative of 03 undergraduates for COVID-19 patients in Emergency Disaster-Relief.
+
+2. Made Design improvements and demonstrated correction of airway pressure and volume flow as per patient's requirement in real time with automatic reduction of Pulmonary Barotrauma.
+
+3. IoT-enabling to drastically reduce PPE-Kit requirement and exposure of medical-staff to COVID-19. Designed the Ventilator in PTC-Creo and Control System in Simulink. Developed our own PCB Board and Circuits in Autodesk-EAGLE. Results were verified through simulation.
+```
+
+### Recognition
+
+1. Won the University of Queensland Engineering Design Hackathon 2020, Brisbane which had more than 15 teams from top universities.
+
+2. Research results published as a [Full Paper](https://ieeexplore.ieee.org/document/9587553) at the IEEE Global Conference for Advancement in Technology (GCAT) 2021.
+
+3. Got the appreciation of Institute Directors and the organizing Committee which included Professors, Anesthetists and Medical experts in the domain of Mechanical Ventilation. 
+
+4. Featured in Thapar Institute of Engineering and Technology's Pulse Volume. XII quarterly publication.
+
+5. Recieved International Recognition. Featured on [TIET's LinkedIn](https://www.linkedin.com/posts/tietofficial_thaparinstitute-tiet2020-hackathon2020-activity-6728971807958937600-uqHe) and [UoQ's official Facebook](https://www.facebook.com/watch/?v=1273994709603672) pages.
+
 ### The Team
 
 ![Net_Vent_Team](https://user-images.githubusercontent.com/62457915/148018879-ce376665-de8f-4cbd-80c1-40e7aad40f3e.jpg)
 
 Aviral Chharia, Shivu Chauhan, Shankhaneel Basak, Bikramjit Sharma <i>(from left to right)</i>
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contact Us
+
+Find the [Paper]((https://ieeexplore.ieee.org/document/9587553)), [Slides](https://aviralchharia.github.io/data/Net_Vent_Slides.pdf), Design Files and codes on Github. Contact us at [aviral.chharia@gmail.com](mailto:aviral.chharia@gmail.com) or [bikramjit@thapar.edu](mailto:bikramjit@thapar.edu)
