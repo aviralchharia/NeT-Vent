@@ -32,6 +32,12 @@ It was the final presentation day that was the scariest of all. We were confiden
 
 Another challenging part was to find the exact market price of various components, their suppliers, and the shortcomings of many open-source ventilators that had been up there earlier. We invested a reasonable amount of time and ensured that our ideas were presented very well in the Hackathon. The presentation went on pretty smoothly, and we were able to explain our design concept and simulation results to the jury members and finish our presentation within the stipulated time. At the start of our design process, we were anxious enough and never thought about a fruitful result. Our sole intention was to contribute to an open-source solution to perhaps one of the biggest challenges: the COVID-19 pandemic. We were extremely thankful to the jury for showing interest in our ventilator design, our proposed solution and rewarding us for our hard work.
 
+<p align="center">
+
+ <iframe width="871" height="490" src="https://www.youtube.com/embed/LHE66gIS758" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</p>
+
 ### Looking back from where it all started and the way ahead
 
 The most important aspect of designing an engineering solution is to identify loopholes in current designs and then improve upon them. Design iterations to address the identified problem are an integral part of the process. Through Net-Vent, we targeted the low-resourced regions and poor backgrounds where high-end ventilators are not available easily. While designing it, we consider developing an easy User Interface of the machine so that everyone can understand it easily. When like-minded people come together to solve a problem, innovation happens, team effort plays a vital role in the success of any project. Operating on such a tight deadline and at a distance from each other was challenging. However, it is not essential to know everything yourself as long as you have a team of motivated people from various backgrounds possessing different skill sets with a common goal and a unique vision. Now that our team has successfully tested the project through various computer simulations, we will be testing our design on a breathing simulator. We plan to send the designs to the Indian Council of Medical Research to be used in under-resourced locations across the country.
