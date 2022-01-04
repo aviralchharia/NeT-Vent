@@ -54,7 +54,7 @@ The most important aspect of designing an engineering solution is to identify lo
 
 ## Recognition
 
-• Won the University of Queensland Engineering Design Hackathon 2020, Brisbane which had more than 15 teams from top universities.
+• Won the University of Queensland (UQ) Engineering Design Hackathon 2020, Brisbane which had more than 15 teams from top universities.
 
 • Research results published as a [Full Paper](https://ieeexplore.ieee.org/document/9587553) at the IEEE Global Conference for Advancement in Technology (GCAT) 2021.
 
@@ -72,7 +72,7 @@ Aviral Chharia, Shivu Chauhan, Shankhaneel Basak, Bikramjit Sharma <i>(from left
 
 ## Contact Us
 
-Find the [Paper](https://ieeexplore.ieee.org/document/9587553), [Slides](https://aviralchharia.github.io/data/Net_Vent_Slides.pdf), Design Files and codes on Github. Contact us at [aviral.chharia@gmail.com](mailto:aviral.chharia@gmail.com) or [bikramjit@thapar.edu](mailto:bikramjit@thapar.edu)
+Find the [Paper](https://ieeexplore.ieee.org/document/9587553), [Slides](https://aviralchharia.github.io/data/Net_Vent_Slides.pdf), Design Files and codes on Github. Contact us at [aviral.chharia@gmail.com](mailto:aviral.chharia@gmail.com)
 
 <div align="center">
 
