@@ -2,7 +2,9 @@
 
 <i>A team of third year undergraduates from [Thapar](https://thapar.edu/), consisting of [Aviral Chharia](https://www.linkedin.com/in/aviralchharia/), Shivu Chauhan, and Shankhaneel Basak recorded a smashing victory at the University of Queensland Engineering Design Hackathon 2020, organized by the School of Mechanical and Mining Engineering, [University of Queensland (UoQ)](https://www.uq.edu.au/), Australia. Around 15 teams from various universities and institutes across India competed in the final round of this hackathon, which began on 8th October, 2020 and lasted two weeks. Dr. Erich Shultz, a Senior Anaesthetist at Brisbane and a team of experts in this area, guided the participating teams during this 2-week journey. The winning team was mentored by [Dr. Bikramjit Sharma](https://med.thapar.edu/facultydetails/MTE3MQ), Assistant Professor, MED. The students also expressed special thanks to [Prof. Ajay Batish](https://med.thapar.edu/facultydetails/MTE1MA), Deputy Director, and [Dr. Vinay Kumar](https://sites.google.com/view/drvinaykumar/home), Associate Professor, ECED, for their constant support and words of encouragement throughout the course of this hackathon. Team Net-Vent members brought a variety of skills and experiences to the design challenge. In this blog, they share their experience.</i>
 
-![20210202_194917](https://user-images.githubusercontent.com/62457915/148011542-65f90b2d-808f-4534-ab34-a30a894c59fc.jpg)
+![Fig06](https://user-images.githubusercontent.com/62457915/148015966-5d2d6d88-ae54-45e6-8446-d024b859ac7f.jpg)
+
+<!-- ![20210202_194917](https://user-images.githubusercontent.com/62457915/148011542-65f90b2d-808f-4534-ab34-a30a894c59fc.jpg) -->
 
 ### How we Began
 
@@ -13,7 +15,7 @@ In the first master class, we were briefed about the challenge of designing an o
 In the second master session, Dr. Erich Shultz, MD, impressed upon us the need for research in present-day high-end ventilators instead of BVMs. He told by his experience that BVM-based ventilators should only be used during emergencies when there is a shortage of high-end ventilators. We also had come across enormous disadvantages of BVMs during our literature review. Thus he advised us to research high-end ventilators instead of BVMs. Therefore the news came as a great disappointment since we had nearly completed the CAD model and the control system by this time. We needed to discard our initial idea entirely and start from scratch. Mid Semester Tests were quickly approaching, and we were finding it hard to stick to our project schedule. However, the idea of contributing to the cause of COVID-19 patients provided us with constant motivation. Thus, we tried our best and worked hard even though time was scarce. We told the developments to our faculty advisor Dr. Bikramjit Sharma, who has been guiding us throughout this project. He motivated us to start with the same enthusiasm as before, thus instilling confidence and motivating us. We started afresh, working on the literature review of the current challenges faced in invasive-type high-end mechanical ventilators and thought of some novel ideas to address these challenges while making our Ventilator low-cost and easy to manufacture.
 
 ### Working all Nighters
-
+ 
 The literature review was one of the most important parts, where we re-defined our project based on the new problem statement. After reading various journal papers and research articles, we did a brainstorming session to come up with a novel design idea. We identified the complications on lung health under constant mechanical ventilation and took this as our primary research problem for the journey. With a 48-hour continuous study about various industrial components and parts used in ventilators, we re-designed our CAD model in PTC-Creo and performed its 3D rendering. We also analyzed its performance under standard test conditions. The parts we used in our design are readily available in the market and can be assembled quickly. This made our ventilator design low-cost and easy to manufacture while providing support to patients requiring emergent endotracheal intubation. We noticed that Pulmonary Barotrauma is an issue caused and aggravated with continuous mechanical ventilation of patients. It is caused by incorrect monitoring and the inability of the Ventilator to change according to a patient's breathing cycle resulting in damage to the lungs. This situation is medically known as ventilator-induced lung injury (VILI). So, we took the challenge to design an appropriate control system that will generate feedback to maintain the continuous opening and closing of the associated valves with greater accuracy. The actual control system was modeled and validated in MATLAB and Simulink with various sensors, gains, and feedback systems. We took an input based on real-time clinical data from a reliable source to test our control system. The gains were added according to their proportionality using the control algorithm approach. Finally, we could attain a pattern as to how our mechanical system will perform. At last, we were confident that our design could be helpful to the medical community.
 
 ### A day before the final presentation
@@ -47,10 +49,15 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### The Team
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aviralchharia/NeT-Vent/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<center>
 
+  ![Net_Vent_Team](https://user-images.githubusercontent.com/62457915/148018668-a371684e-21ea-4b85-b0c3-52fbdd580723.jpg)
+  
+</center>
+
+Aviral Chharia, Shivu Chauhan, Shankhaneel Basak, Bikramjit Sharma <i>(from left to right)</i>
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
