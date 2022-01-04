@@ -51,11 +51,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### The Team
 
-<center>
-
-  ![Net_Vent_Team](https://user-images.githubusercontent.com/62457915/148018668-a371684e-21ea-4b85-b0c3-52fbdd580723.jpg)
-  
-</center>
+![Net_Vent_Team](https://user-images.githubusercontent.com/62457915/148018879-ce376665-de8f-4cbd-80c1-40e7aad40f3e.jpg)
 
 Aviral Chharia, Shivu Chauhan, Shankhaneel Basak, Bikramjit Sharma <i>(from left to right)</i>
 ### Support or Contact
