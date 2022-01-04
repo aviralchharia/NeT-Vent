@@ -34,7 +34,7 @@ Another challenging part was to find the exact market price of various component
 
 <p align="center">
 
- <iframe width="100%" height="600px" src="https://www.youtube.com/embed/aH61JyB22LA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="100%" height="338px" src="https://www.youtube.com/embed/aH61JyB22LA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </p>
 
@@ -48,7 +48,7 @@ The most important aspect of designing an engineering solution is to identify lo
 
 <div class="container">
 
- <embed src="NeT-Vent_IEEE_Paper.pdf" type="application/pdf" width="100%" height="800px" />
+ <embed src="NeT-Vent_IEEE_Paper.pdf" type="application/pdf" width="100%" height="600px" />
 </div>
 
 
