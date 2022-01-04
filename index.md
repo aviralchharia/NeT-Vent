@@ -1,10 +1,19 @@
-## NeT-Vent: Providing Affordable Healthcare in Emergency-Disaster Relief
+# NeT-Vent: Providing Affordable Healthcare in Emergency-Disaster Relief
 
 <i>A team of third year undergraduates from [Thapar](https://thapar.edu/), consisting of [Aviral Chharia](https://www.linkedin.com/in/aviralchharia/), Shivu Chauhan, and Shankhaneel Basak recorded a smashing victory at the University of Queensland Engineering Design Hackathon 2020, organized by the School of Mechanical and Mining Engineering, [University of Queensland (UoQ)](https://www.uq.edu.au/), Australia. Around 15 teams from various universities and institutes across India competed in the final round of this hackathon, which began on 8th October, 2020 and lasted two weeks. Dr. Erich Shultz, a Senior Anaesthetist at Brisbane and a team of experts in this area, guided the participating teams during this 2-week journey. The winning team was mentored by [Dr. Bikramjit Sharma](https://med.thapar.edu/facultydetails/MTE3MQ), Assistant Professor, MED. The students also expressed special thanks to [Prof. Ajay Batish](https://med.thapar.edu/facultydetails/MTE1MA), Deputy Director, and [Dr. Vinay Kumar](https://sites.google.com/view/drvinaykumar/home), Associate Professor, ECED, for their constant support and words of encouragement throughout the course of this hackathon. Team Net-Vent members brought a variety of skills and experiences to the design challenge. In this blog, they share their experience.</i>
 
 ![Fig06](https://user-images.githubusercontent.com/62457915/148015966-5d2d6d88-ae54-45e6-8446-d024b859ac7f.jpg)
 
 <!-- ![20210202_194917](https://user-images.githubusercontent.com/62457915/148011542-65f90b2d-808f-4534-ab34-a30a894c59fc.jpg) -->
+
+## Highlights
+
+• Project NeT-Vent- An Open-Source, Low-Cost, Easy to use and Manufacture Ventilator Design initiative of 03 undergraduates for COVID-19 patients in Emergency Disaster-Relief.
+• Designed the Ventilator in PTC-Creo and Control System in Simulink. Made Design improvements and demonstrated correction of airway pressure and volume flow as per patient's requirement in real time with automatic reduction of Pulmonary Barotrauma, a Ventilator-induced Lung Injury.
+• IoT-enabling to drastically reduce PPE-Kit requirement and exposure of medical-staff to COVID-19.
+• Developed our own PCB Board and circuits in Autodesk-EAGLE. Obtained results were verified through simulation.
+
+## Our Journey
 
 ### How we Began
 
@@ -27,56 +36,21 @@ Another challenging part was to find the exact market price of various component
 ### Looking back from where it all started and the way ahead
 
 The most important aspect of designing an engineering solution is to identify loopholes in current designs and then improve upon them. Design iterations to address the identified problem are an integral part of the process. Through Net-Vent, we targeted the low-resourced regions and poor backgrounds where high-end ventilators are not available easily. While designing it, we consider developing an easy User Interface of the machine so that everyone can understand it easily. When like-minded people come together to solve a problem, innovation happens, team effort plays a vital role in the success of any project. Operating on such a tight deadline and at a distance from each other was challenging. However, it is not essential to know everything yourself as long as you have a team of motivated people from various backgrounds possessing different skill sets with a common goal and a unique vision. Now that our team has successfully tested the project through various computer simulations, we will be testing our design on a breathing simulator. We plan to send the designs to the Indian Council of Medical Research to be used in under-resourced locations across the country.
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Recognition
 
-# Header 1
-## Header 2
-### Header 3
+• Won the University of Queensland Engineering Design Hackathon 2020, Brisbane which had more than 15 teams from top universities.
+• Research results published as a [Full Paper](https://ieeexplore.ieee.org/document/9587553) at the IEEE Global Conference for Advancement in Technology (GCAT) 2021.
+• Got the appreciation of Institute Directors and the organizing committee which included Professors, Anesthetists and Medical experts in the domain of Ventilation.
+• Featured in Thapar Institute of Engineering and Technology's Pulse Volume. XII quarterly publication.
+• Recieved International Recognition. Featured on [TIET's LinkedIn](https://www.linkedin.com/posts/tietofficial_thaparinstitute-tiet2020-hackathon2020-activity-6728971807958937600-uqHe) and [UoQ's official Facebook](https://www.facebook.com/watch/?v=1273994709603672) pages.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Highlights
-
-```markdown
-1. Project NeT-Vent- An Open-Source, Low-Cost, Easy to use and Manufacture Ventilator Design initiative of 03 undergraduates for COVID-19 patients in Emergency Disaster-Relief.
-
-2. Made Design improvements and demonstrated correction of airway pressure and volume flow as per patient's requirement in real time with automatic reduction of Pulmonary Barotrauma.
-
-3. IoT-enabling to drastically reduce PPE-Kit requirement and exposure of medical-staff to COVID-19. Designed the Ventilator in PTC-Creo and Control System in Simulink. Developed our own PCB Board and Circuits in Autodesk-EAGLE. Results were verified through simulation.
-```
-
-### Recognition
-
-1. Won the University of Queensland Engineering Design Hackathon 2020, Brisbane which had more than 15 teams from top universities.
-
-2. Research results published as a [Full Paper](https://ieeexplore.ieee.org/document/9587553) at the IEEE Global Conference for Advancement in Technology (GCAT) 2021.
-
-3. Got the appreciation of Institute Directors and the organizing Committee which included Professors, Anesthetists and Medical experts in the domain of Mechanical Ventilation. 
-
-4. Featured in Thapar Institute of Engineering and Technology's Pulse Volume. XII quarterly publication.
-
-5. Recieved International Recognition. Featured on [TIET's LinkedIn](https://www.linkedin.com/posts/tietofficial_thaparinstitute-tiet2020-hackathon2020-activity-6728971807958937600-uqHe) and [UoQ's official Facebook](https://www.facebook.com/watch/?v=1273994709603672) pages.
-
-### The Team
+## The Team
 
 ![Net_Vent_Team](https://user-images.githubusercontent.com/62457915/148018879-ce376665-de8f-4cbd-80c1-40e7aad40f3e.jpg)
 
 Aviral Chharia, Shivu Chauhan, Shankhaneel Basak, Bikramjit Sharma <i>(from left to right)</i>
 
-### Contact Us
+## Contact Us
 
 Find the [Paper]((https://ieeexplore.ieee.org/document/9587553)), [Slides](https://aviralchharia.github.io/data/Net_Vent_Slides.pdf), Design Files and codes on Github. Contact us at [aviral.chharia@gmail.com](mailto:aviral.chharia@gmail.com) or [bikramjit@thapar.edu](mailto:bikramjit@thapar.edu)
