@@ -32,9 +32,15 @@ It was the final presentation day that was the scariest of all. We were confiden
 
 Another challenging part was to find the exact market price of various components, their suppliers, and the shortcomings of many open-source ventilators that had been up there earlier. We invested a reasonable amount of time and ensured that our ideas were presented very well in the Hackathon. The presentation went on pretty smoothly, and we were able to explain our design concept and simulation results to the jury members and finish our presentation within the stipulated time. At the start of our design process, we were anxious enough and never thought about a fruitful result. Our sole intention was to contribute to an open-source solution to perhaps one of the biggest challenges: the COVID-19 pandemic. We were extremely thankful to the jury for showing interest in our ventilator design, our proposed solution and rewarding us for our hard work.
 
+.container {
+  padding-top: 56.25%;
+}
+
 <p align="center">
 
+<div class="container"> 
  <iframe width="100%" height="380px" src="https://www.youtube.com/embed/aH61JyB22LA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 </p>
 
@@ -48,7 +54,7 @@ The most important aspect of designing an engineering solution is to identify lo
 
 <div class="container">
 
- <iframe src="NeT-Vent_IEEE_Paper.pdf" type="application/pdf" width="100%" height="600px" />
+ <iframe src="NeT-Vent_IEEE_Paper.pdf" type="application/pdf" width="100%" height="600px"></iframe>
 </div>
 
 
