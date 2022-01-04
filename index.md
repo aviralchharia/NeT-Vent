@@ -58,4 +58,4 @@ Aviral Chharia, Shivu Chauhan, Shankhaneel Basak, Bikramjit Sharma <i>(from left
 
 Find the [Paper]((https://ieeexplore.ieee.org/document/9587553)), [Slides](https://aviralchharia.github.io/data/Net_Vent_Slides.pdf), Design Files and codes on Github. Contact us at [aviral.chharia@gmail.com](mailto:aviral.chharia@gmail.com) or [bikramjit@thapar.edu](mailto:bikramjit@thapar.edu)
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5y61h8hmzq9&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script>
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5y61h8hmzq9&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async" size=250px></script>
