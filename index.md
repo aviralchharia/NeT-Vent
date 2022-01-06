@@ -71,14 +71,14 @@ The most important aspect of designing an engineering solution is to identify lo
 
 • Recieved International Recognition. Featured on [TIET's LinkedIn](https://www.linkedin.com/posts/tietofficial_thaparinstitute-tiet2020-hackathon2020-activity-6728971807958937600-uqHe) and [UoQ's official Facebook](https://www.facebook.com/watch/?v=1273994709603672) pages.
 
+<style>
+div{display: inline;}
+</style>
 
-div{
-    display: inline;
-}
-
-iframe{
-    display: inline;
-}
+<style>
+iframe{display: inline;}
+</style>
+ 
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v12.0" nonce="hQNlbeg4"></script>
 
