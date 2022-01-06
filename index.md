@@ -71,7 +71,7 @@ The most important aspect of designing an engineering solution is to identify lo
 
 • Recieved International Recognition. Featured on [TIET's LinkedIn](https://www.linkedin.com/posts/tietofficial_thaparinstitute-tiet2020-hackathon2020-activity-6728971807958937600-uqHe) and [UoQ's official Facebook](https://www.facebook.com/watch/?v=1273994709603672) pages.
 
-<center><iframe align="center" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6728971807346561024" height="450" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe></center>
+<center><iframe align="center" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6728971807346561024" height="460" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe></center>
 
 ## The Team
 
