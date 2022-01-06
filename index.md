@@ -71,12 +71,7 @@ The most important aspect of designing an engineering solution is to identify lo
 
 • Recieved International Recognition. Featured on [TIET's LinkedIn](https://www.linkedin.com/posts/tietofficial_thaparinstitute-tiet2020-hackathon2020-activity-6728971807958937600-uqHe) and [UoQ's official Facebook](https://www.facebook.com/watch/?v=1273994709603672) pages.
 
-
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v12.0" nonce="hQNlbeg4"></script>
-
-<center><iframe align="center" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6728971807346561024" height="400" width="45%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe></center>
-<center><div align="center" class="fb-post" data-href="https://www.facebook.com/watch/?v=1273994709603672" data-width="345" data-show-text="true"><blockquote cite="https://www.facebook.com/uniofqldind/videos/1273994709603672/" class="fb-xfbml-parse-ignore"><p>UQ congratulates Aviral Chharia, Shivu Chauhan and Shankhaneel Basak from Thapar Institute of Engineering &amp; Technology...</p>Posted by <a href="https://www.facebook.com/uniofqldind/">The University of Queensland – India</a> on&nbsp;<a href="https://www.facebook.com/uniofqldind/videos/1273994709603672/">Monday, 26 October 2020</a></blockquote></div></center>
+<center><iframe align="center" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6728971807346561024" height="400" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe></center>
 
 ## The Team
 
