@@ -59,6 +59,23 @@ The most important aspect of designing an engineering solution is to identify lo
 </object>
 
 
+<hr/ style="margin-top: 1em">
+  <div class="row" style="margin-top: 1em">
+		<div class="12u$ 1u$(xsmall)">
+		<h3>Bibtex</h3>
+		<pre style="text-align:left;"><code>@inproceedings{chharia2021net,
+  title={NeT-Vent: Low-Cost, Rapidly Scalable and IoT-enabled Smart Invasive Mechanical Ventilator with adaptive control to reduce incidences of Pulmonary Barotrauma in SARS-CoV-2 patients},
+  author={Chharia, Aviral and Chauhan, Shivu and Basak, Shankhaneel and Sharma, Bikramjit},
+  booktitle={2021 2nd Global Conference for Advancement in Technology (GCAT)},
+  pages={1--10},
+  year={2021},
+  organization={IEEE}
+}</code></pre>
+		</div>
+	 </div>
+
+
+
 ## Recognition
 
 • Won the University of Queensland (UQ) Engineering Design Hackathon 2020, Brisbane which had more than 15 teams from top universities.
