@@ -59,8 +59,7 @@ The most important aspect of designing an engineering solution is to identify lo
 </object>
 
 
-<hr/ style="margin-top: 1em">
-  <div class="row" style="margin-top: 1em">
+<div class="row" style="margin-top: 1em">
 		<div class="12u$ 1u$(xsmall)">
 		<h3>Bibtex</h3>
 		<pre style="text-align:left;"><code>@inproceedings{chharia2021net,
