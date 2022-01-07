@@ -76,7 +76,7 @@ The most important aspect of designing an engineering solution is to identify lo
 
 ## Recognition
 
-• Won the [University of Queensland Engineering Design Hackathon, 2020](https://aviralchharia.github.io/data/UoQ-Hackathon.pdf), Brisbane which had more than 15 teams from top universities.
+• Won the University of Queensland Engineering Design Hackathon, 2020, Brisbane which had more than 15 teams from top universities.
 
 • Research results published as a [Full Paper](https://ieeexplore.ieee.org/document/9587553) at the IEEE Global Conference for Advancement in Technology (GCAT) 2021.
 
@@ -85,6 +85,8 @@ The most important aspect of designing an engineering solution is to identify lo
 • Featured in Thapar Institute of Engineering and Technology's Pulse Volume. XII quarterly publication.
 
 • Recieved International Recognition. Featured on [TIET's LinkedIn](https://www.linkedin.com/posts/tietofficial_thaparinstitute-tiet2020-hackathon2020-activity-6728971807958937600-uqHe) and [UoQ's official Facebook](https://www.facebook.com/watch/?v=1273994709603672) pages.
+
+<center><iframe align="center" src="https://aviralchharia.github.io/data/UoQ-Hackathon.pdf" height="460" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe></center>
 
 <center><iframe align="center" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6728971807346561024" height="460" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe></center>
 
