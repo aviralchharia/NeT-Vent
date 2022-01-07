@@ -95,7 +95,7 @@ The most important aspect of designing an engineering solution is to identify lo
 
 ![Net_Vent_Team](https://user-images.githubusercontent.com/62457915/148018879-ce376665-de8f-4cbd-80c1-40e7aad40f3e.jpg)
 
-<i>(left to right)</i> Aviral Chharia <i>(Team Lead)</i>, Shivu Chauhan, Shankhaneel Basak, Bikramjit Sharma <i>(Faculty Mentor)</i>
+Aviral Chharia <i>(Team Lead)</i>, Shivu Chauhan, Shankhaneel Basak, Bikramjit Sharma <i>(Faculty Mentor)</i>
 
 ## Contact Us
 
