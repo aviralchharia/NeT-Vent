@@ -76,16 +76,17 @@ The most important aspect of designing an engineering solution is to identify lo
 
 ## Recognition
 
-• Won the University of Queensland Engineering Design Hackathon, 2020, Brisbane which had more than 15 teams from top universities.
+• NeT-Vent featured by the World Health Organisation (WHO) on [Global literature on coronavirus disease](https://pesquisa.bvsalud.org/global-literature-on-novel-coronavirus-2019-ncov/resource/pt/covidwho-1537698?lang=en), <i>2021</i>.
 
-• Research results published as a [Full Paper](https://ieeexplore.ieee.org/document/9587553) at the IEEE Global Conference for Advancement in Technology (GCAT) 2021.
+• Research results published as a [Full Paper](https://ieeexplore.ieee.org/document/9587553) at the IEEE Global Conference for Advancement in Technology (GCAT), <i>2021</i>.
 
-• Got the appreciation of Institute Directors and the organizing committee which included Professors, Anesthetists and Medical experts in the domain of Ventilation.
+• Recieved International Recognition. Featured on [TIET's LinkedIn](https://www.linkedin.com/posts/tietofficial_thaparinstitute-tiet2020-hackathon2020-activity-6728971807958937600-uqHe) and [UoQ's official Facebook](https://www.facebook.com/watch/?v=1273994709603672) pages, <i>2020</i>.
 
-• Featured in Thapar Institute of Engineering and Technology's Pulse Volume. XII quarterly publication.
+• Featured in Thapar Institute of Engineering and Technology's Pulse Volume. XII quarterly publication, <i>2020</i>.
 
-• Recieved International Recognition. Featured on [TIET's LinkedIn](https://www.linkedin.com/posts/tietofficial_thaparinstitute-tiet2020-hackathon2020-activity-6728971807958937600-uqHe) and [UoQ's official Facebook](https://www.facebook.com/watch/?v=1273994709603672) pages.
+• Got the appreciation of Institute Directors and the organizing committee which included Professors, Anesthetists and Medical experts in the domain of Ventilation, <i>2020</i>.
 
+• Won the University of Queensland Engineering Design Hackathon Brisbane which had more than 15 teams from top universities, <i>2020</i>.
 
 <center><img src="https://user-images.githubusercontent.com/62457915/148509445-9272404a-648f-458a-ab98-bd604c724075.png" style="width:50%;height:450px;"></center>
 
